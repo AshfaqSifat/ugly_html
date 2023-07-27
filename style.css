@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color:yellow;
+    background-color: blue;
+}
+body{
+    color:white;
+    text-align: center;
+}
+#starters_image_div {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: auto;
+    padding-left: auto;
+    margin: auto;
+    border: 2px solid blue;
+}
+
+#bulbasaur_container {
+    text-align: left;
+    background-color: rgb(100, 255, 100);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 25px;
+}
+#charmander_container {
+    text-align: left;
+    background-color: rgb(255, 206, 100);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 25px;
+}
+#squirtle_container {
+    text-align: left;
+    background-color: rgb(100, 232, 255);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+}
+ul {
+    text-align: left;
+}
+footer {
+    text-align: left;
+}
